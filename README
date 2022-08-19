@@ -1,0 +1,9 @@
+# Exploratory Data Analysis of Air Pollutant Distributions using Wasserstein Metric
+
+# This project uses datasets obtianed from the EPA website to transform annual data across the US detection sites into a symbolic dataset,
+made up of annual distributions for each state for each ozone, nitrogen dioxide, sulfur dioxide, and carbon monoxide. 
+
+# Descriptive statistics are performed on the sets of histograms using the Wasserstein distance as the metric of measurement.
+
+# Machine learning algorithms are applied using the metric, particularly cluster analysis,
+to understand if the metric can successfully identify "simiilar" distributions
